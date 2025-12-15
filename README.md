@@ -39,9 +39,7 @@
 - **Stock Portfolio Dashboard (Spring Boot + React + MySQL)**  
   → https://github.com/QaShah07
 - **Terminal-Bench style Linux/DevOps tasks (Bash/Docker)**  
-  → (pin the repo you want visitors to see first)
 
-> Tip: Pin 4–6 best repos on your GitHub profile (Customize Profile → “Pinned”).
 
 ---
 
