@@ -1,38 +1,89 @@
 <h1 align="center">Hi 👋, I'm Shah Mohammad</h1>
-<h3 align="center">A passionate Software Developer/Engineer from India</h3>
+<h3 align="center">Software Engineer • Linux/Bash • Performance + Systems • Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qashah07&label=Profile%20views&color=0e75b6&style=flat" alt="qashah07" /> </p>
+<p align="center">
+  <a href="https://github.com/QaShah07"><img src="https://komarev.com/ghpvc/?username=qashah07&label=Profile%20views&color=0e75b6&style=flat" alt="qashah07" /></a>
+  <a href="https://github.com/QaShah07?tab=followers"><img src="https://img.shields.io/github/followers/QaShah07?label=Followers&style=flat" /></a>
+  <a href="https://github.com/QaShah07?tab=repositories"><img src="https://img.shields.io/badge/Repos-Visit-blue?style=flat" /></a>
+</p>
 
-- 🌱 I’m currently learning **Software Performance Engineer + Systems Engineer + Kernel Hacker**
+<p align="center">
+  <a href="https://codeforces.com/profile/iitianshah1502"><img src="https://img.shields.io/badge/Codeforces-Expert-1f8acb?style=flat&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/qashah07"><img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=flat&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=flat&logo=leetcode&logoColor=white" /></a>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/QaShah07](https://github.com/QaShah07)
+---
 
-- 📝 I regularly write articles on [https://medium.com/@shahiitp07](https://medium.com/@shahiitp07)
+## 🚀 About me
+- 🌱 Currently learning **Software Performance Engineering + Systems Engineering + Kernel/Hacking fundamentals**
+- 🧰 I love building **terminal-heavy, production-like debugging & DevOps workflows**
+- 🏁 Competitive Programming: **Codeforces Expert** (highlighted here + linked below)
 
-- 📫 How to reach me **shahiitp07@gmail.com**
+## 🏆 Competitive Programming Highlights
+- **Codeforces:** Expert (profile) → https://codeforces.com/profile/iitianshah1502  
+- **LeetCode / CodeChef:** profiles linked below  
+- (Optional) Add your best ranks/ratings as bullets here (keep it short & punchy)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z1On4bGwsHneyvuJZgNwOcHQ3zbZlKSp/view?usp=sharing](https://drive.google.com/file/d/1z1On4bGwsHneyvuJZgNwOcHQ3zbZlKSp/view?usp=sharing)
+---
 
-- ⚡ Fun fact **doing nothing**
+## 💼 Resume
+- **Resume (PDF):** `assets/Shah_Mohammad_Resume.pdf`  ← upload it to this repo and this link will work
+- Backup (Drive): https://drive.google.com/file/d/1z1On4bGwsHneyvuJZgNwOcHQ3zbZlKSp/view?usp=sharing
 
-### Blogs posts
+---
+
+## 🔥 Featured Projects
+- **Stock Portfolio Dashboard (Spring Boot + React + MySQL)**  
+  → https://github.com/QaShah07
+- **Terminal-Bench style Linux/DevOps tasks (Bash/Docker)**  
+  → (pin the repo you want visitors to see first)
+
+> Tip: Pin 4–6 best repos on your GitHub profile (Customize Profile → “Pinned”).
+
+---
+
+## ✍️ Blog
+- Medium: https://medium.com/@shahiitp07
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🤝 Connect with me
 <p align="left">
-<a href="https://twitter.com/qashah07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qashah07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shah mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah mohammad" height="30" width="40" /></a>
-<a href="https://instagram.com/qa_shah7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qa_shah7" height="30" width="40" /></a>
-<a href="https://medium.com/@shah mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shah mohammad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the iitian and officer show" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the iitian and officer show" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/qashah07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="qashah07" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/iitianshah1502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iitianshah1502" height="30" width="40" /></a>
+  <a href="https://twitter.com/qashah07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/qa-shah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/qa_shah7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="https://medium.com/@shahiitp07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/the%20iitian%20and%20officer%20show" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/qashah07" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/iitianshah1502" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qashah07&show_icons=true&locale=en&layout=compact" alt="qashah07" /></p>
+## 🧠 Languages & Tools (clean + minimal)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qashah07&show_icons=true&locale=en" alt="qashah07" /></p>
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=qashah07&show_icons=true&locale=en" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qashah07&show_icons=true&locale=en&layout=compact" />
+</p>
