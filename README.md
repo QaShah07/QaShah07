@@ -11,6 +11,9 @@
   <a href="https://github.com/QaShah07?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-Visit-blue?style=flat" />
   </a>
+  <a href="https://github.com/QaShah07/QaShah07/raw/main/Resume_Shah_Mohammad_2025_FTE.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-success?style=flat" />
+  </a>
 </p>
 
 <p align="center">
@@ -43,7 +46,8 @@
 ---
 
 ## 💼 Resume
-- **Resume (PDF):** `assets/Resume_Shah_Mohammad_2025_FTE.pdf`
+- ✅ **View / Download (GitHub):** [Resume_Shah_Mohammad_2025_FTE.pdf](./Resume_Shah_Mohammad_2025_FTE.pdf)
+- ⬇️ **Direct download link:** https://github.com/QaShah07/QaShah07/raw/main/Resume_Shah_Mohammad_2025_FTE.pdf
 - Backup (Drive): https://drive.google.com/file/d/1z1On4bGwsHneyvuJZgNwOcHQ3zbZlKSp/view?usp=sharing
 
 ---
@@ -102,4 +106,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36"/>
-  <img src="https://raw.
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36"/>
+</p>
+
+---
