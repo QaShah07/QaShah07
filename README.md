@@ -28,7 +28,7 @@
 ---
 
 ## 💼 Resume
-- **Resume (PDF):** `assets/Shah_Mohammad_Resume.pdf`  ← upload it to this repo and this link will work
+- **Resume (PDF):** `Resume_Shah_Mohammad_2025_FTE.pdf` 
 - Backup (Drive): https://drive.google.com/file/d/1z1On4bGwsHneyvuJZgNwOcHQ3zbZlKSp/view?usp=sharing
 
 ---
