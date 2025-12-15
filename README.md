@@ -23,7 +23,9 @@
 ## 🏆 Competitive Programming Highlights
 - **Codeforces:** Expert (profile) → https://codeforces.com/profile/iitianshah1502  
 - **LeetCode / CodeChef:** profiles linked below  
-- (Optional) Add your best ranks/ratings as bullets here (keep it short & punchy)
+- Attained Global Rank 504 out of 27,000+ participants in Codeforces Round 1049 (Div. 2)
+- Secured Global Rank 585 among 29,000+ participants in Codeforces Round 1046 (Div. 2).
+- National Semi-Finalist, Flipkart GRiD 7.0 - selected from 4.5 lakh+ participants 
 
 ---
 
@@ -46,8 +48,9 @@
 ## ✍️ Blog
 - Medium: https://medium.com/@shahiitp07
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+https://medium.com/@shahiitp07/stock-portfolio-dashboard-spring-boot-full-stack-interview-project-9eeef17cd47c
+https://medium.com/@shahiitp07/commission-calculation-system-full-stack-interview-project-7a14e675c06d
+https://medium.com/@shahiitp07/juspay-hackthon-sde-hiring-experince-53347fd2fdc3
 
 ---
 
