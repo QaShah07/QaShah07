@@ -65,7 +65,7 @@ https://medium.com/@shahiitp07/juspay-hackthon-sde-hiring-experince-53347fd2fdc3
 
 ---
 
-## 🧠 Languages & Tools (clean + minimal)
+## 🧠 Languages & Tools 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"/>
