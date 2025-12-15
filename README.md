@@ -22,7 +22,7 @@
 
 ## 🏆 Competitive Programming Highlights
 - **Codeforces:** Expert (profile) → https://codeforces.com/profile/iitianshah1502  
-- **LeetCode / CodeChef:** profiles linked below  
+- **LeetCode / CodeChef:** https://leetcode.com/u/Qa_Shah/
 - Attained Global Rank 504 out of 27,000+ participants in Codeforces Round 1049 (Div. 2)
 - Secured Global Rank 585 among 29,000+ participants in Codeforces Round 1046 (Div. 2).
 - National Semi-Finalist, Flipkart GRiD 7.0 - selected from 4.5 lakh+ participants 
