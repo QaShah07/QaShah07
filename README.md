@@ -18,7 +18,7 @@
 ## 🚀 About me
 - 🌱 Currently learning **Software Performance Engineering + Systems Engineering + Kernel/Hacking fundamentals**
 - 🧰 I love building **terminal-heavy, production-like debugging & DevOps workflows**
-- 🏁 Competitive Programming: **Codeforces Expert** (highlighted here + linked below)
+
 
 ## 🏆 Competitive Programming Highlights
 - **Codeforces:** Expert (profile) → https://codeforces.com/profile/iitianshah1502  
